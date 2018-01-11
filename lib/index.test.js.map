@@ -1,0 +1,1 @@
+{"version":3,"file":"index.test.js","sourceRoot":"","sources":["../src/index.test.ts"],"names":[],"mappings":";;AAAA,iCAA6B;AAE7B,IAAI,CAAC,uBAAuB,EAAE;IAC5B,MAAM,CAAC,WAAG,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,IAAI,CAAC,CAAC,CAAC,CAAA;AAC3B,CAAC,CAAC,CAAA","sourcesContent":["import { sum } from './index'\n\ntest('adds 1 + 2 to equal 3', () => {\n  expect(sum(1, 2)).toBe(3)\n})\n"]}

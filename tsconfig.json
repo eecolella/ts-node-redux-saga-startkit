@@ -1,0 +1,16 @@
+{
+  "compilerOptions" : {
+    "sourceMap"     : true,
+    "inlineSources" : true,
+    "pretty"        : true,
+    "rootDir"       : "src",
+    "outDir"        : "lib",
+    "target"        : "es5",
+    "lib"           : ["es6", "dom"]
+  },
+  "compileOnSave"   : false,
+  "exclude"         : [
+    "node_modules",
+    "lib"
+  ]
+}
